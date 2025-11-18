@@ -1,9 +1,9 @@
 # Software Engineering Assessment 1
 
 ##  Contents
-- ✅ Android App Code — located in the `master` branch
-- 📄 Lab Evidence — `All Lab 1-6 document.docx`
-- 📊 UML Diagrams — `UML Diagrams.docx`
+-  Android App Code — located in the `master` branch
+-  Lab Evidence — `All Lab 1-6 document.docx`
+-  UML Diagrams — `UML Diagrams.docx`
 
 This GitHub repository contains all required materials for Software Engineering Assessment 1.
 
