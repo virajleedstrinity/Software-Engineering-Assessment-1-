@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:fitsSystemWindows="true"
+    android:paddingTop="16dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <Button
+        android:id="@+id/btnInspection"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="START INSPECTION"
+        android:textAllCaps="true"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnHistory"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="HISTORY RECORDS"
+        android:textAllCaps="true"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnUserManual"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="USER MANUAL"
+        android:textAllCaps="true" />
+
+</LinearLayout>
