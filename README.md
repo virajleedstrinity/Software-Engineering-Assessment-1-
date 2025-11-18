@@ -1,6 +1,6 @@
 # Software Engineering Assessment 1
 
-## 📦 Contents
+##  Contents
 - ✅ Android App Code — located in the `master` branch
 - 📄 Lab Evidence — `All Lab 1-6 document.docx`
 - 📊 UML Diagrams — `UML Diagrams.docx`
