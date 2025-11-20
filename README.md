@@ -10,7 +10,8 @@ This GitHub repository contains all required materials for Software Engineering 
 - App code is located in the `master` branch.
 - Documents are available in the root directory.
 - Due to separate commit histories, `main` and `master` are not merged. Please view the `master` branch for the full app
-###The tools i have used for the software enginerring assesment 1.
+
+The tools i have used for the software enginerring assesment 1.
 - Draw.io – for creating system architecture and flow diagrams
 - SQLite – for building and managing the database in the CD module
 - AI assistant – used for brainstorming, planning, feedback, and editing support
